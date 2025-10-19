@@ -10,17 +10,17 @@
 
 # 
 
-# \- \*\*HTTP Proxy Server\*\*: Full HTTP proxy functionality with request/response handling
+**HTTP Proxy Server\*\*: Full HTTP proxy functionality with request/response handling
 
-# \- \*\*Multi-threaded Architecture\*\*: Handles multiple concurrent connections efficiently
+**Multi-threaded Architecture\*\*: Handles multiple concurrent connections efficiently
 
-# \- \*\*Request/Response Logging\*\*: Comprehensive logging of all HTTP traffic
+**Request/Response Logging\*\*: Comprehensive logging of all HTTP traffic
 
-# \- \*\*Configuration Management\*\*: Flexible configuration system for proxy settings
+**Configuration Management\*\*: Flexible configuration system for proxy settings
 
-# \- \*\*Extensible Design\*\*: Easy to extend with custom request/response handlers
+**Extensible Design\*\*: Easy to extend with custom request/response handlers
 
-# \- \*\*Connection Pooling\*\*: Efficient connection management for better performance
+**Connection Pooling\*\*: Efficient connection management for better performance
 
 # 
 
