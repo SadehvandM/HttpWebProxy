@@ -1,6 +1,5 @@
 ## HttpWebProxy
-
-# A lightweight, high-performance HTTP proxy server built with C#. This proxy server handles HTTP requests and responses, providing a foundation for web traffic interception, monitoring, and manipulation.
+A lightweight, high-performance HTTP proxy server built with C#. This proxy server handles HTTP requests and responses, providing a foundation for web traffic interception, monitoring, and manipulation.
 
 ## Features
 
